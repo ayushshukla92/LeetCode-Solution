@@ -1,0 +1,6 @@
+-----Reverse an integer-----
+boundary cases**
+input-1000000003
+output out of range  (declare long result)
+if(r>2147483647 || r<-2147483647)
+	    return 0;
